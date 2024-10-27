@@ -14,9 +14,7 @@ This project showcases the latest features of Next.js 15, including Next.js Form
 You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=Zq5fmkH0T78&t=2210s&ab_channel=JavaScriptMastery).
 
 
-
-
-🛠️ **Technologies Used**
+## 🛠️ **Technologies Used**
 
 React 19
 
